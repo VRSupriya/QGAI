@@ -1,0 +1,9 @@
+pennylane=0.38.0
+matplotlib=3.9.2
+pandas=2.2.3
+torch=2.4.1
+torchvision=0.19.1
+torchaudio=2.4.1
+rdkit-pypi=2022.9.5
+tensorflow=2.17.0
+frechetdist=0.6
