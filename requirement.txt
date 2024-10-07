@@ -7,3 +7,9 @@ torchaudio=2.4.1
 rdkit-pypi=2022.9.5
 tensorflow=2.17.0
 frechetdist=0.6
+qiskit_ibm_runtime==0.29.0
+qiskit-ibm-provider=0.11.0
+qiskit-aer=0.15.1
+qiskit=1.2.2
+pennylane-qiskit=0.38.0 
+scikit-learn=1.5.2
